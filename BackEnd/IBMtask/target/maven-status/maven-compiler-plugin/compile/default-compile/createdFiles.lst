@@ -1,0 +1,6 @@
+currency\jpa\Repository.class
+currency\jpa\FxRate.class
+currency\controller\DbController.class
+currency\jpa\LoadDatabase.class
+currency\BankCommunicator.class
+currency\IbMtaskApplication.class
